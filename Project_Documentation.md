@@ -52,4 +52,41 @@ The application follows a basic two-activity architecture:
 
 ## 🔢 Logic Used
 
-Attendance Percentage is calculated using the formula:
+Attendance Percentage is calculated using the formula: 
+Attendance Percentage = (Classes Attended / Total Classes) × 100
+
+
+
+---
+
+
+Conditional checks classify eligibility status based on the calculated percentage.
+
+
+---
+
+## ✅ Key Features
+
+- Proper input validation  
+- Accurate attendance calculation  
+- Eligibility classification using conditions  
+- Color-coded status display  
+- Structured Android project architecture  
+- Clean and modular activity separation  
+
+
+---
+
+## 🚀 Future Improvements
+
+- Implementation of RecyclerView to support multiple subjects  
+- Data persistence using SharedPreferences  
+- Enhanced UI using structured XML layouts  
+- Material Design components for better user experience  
+
+
+---
+
+## 📝 Conclusion
+
+The project demonstrates logical problem-solving, structured Android application design, and clear separation of responsibilities between activities. The implementation prioritizes correctness, readability, and scalability for future improvements.
