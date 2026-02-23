@@ -26,3 +26,9 @@ Eligibility Rules:
 - RecyclerView for multiple subjects
 - SharedPreferences for persistence
 - Improved UI using XML layouts
+
+## Detailed Documentation
+
+For complete project explanation and architectural details, please refer to:
+
+➡️ [Project Documentation](Project_Documentation.md)
